@@ -2,7 +2,6 @@
 
 A modern and responsive weather forecasting web application built with **React.js** and **Chakra UI**. This app provides users with real-time weather data, today's forecast, and a dynamic 5-day forecast including GIFs representing weather conditions.
 
-🔗 **Live Website:** [https://pragin-t.github.io/Weather-Dynamic-Forecast/](https://pragin-t.github.io/Weather-Dynamic-Forecast/)
 
 ## 🚀 Features
 
@@ -85,6 +84,6 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ by **T. Pragin**
-Email: pragin.t.developer@gmail.com
-[GitHub](https://github.com/Pragin-T)
+Made with ❤️ by **Kabilan S**
+Email: kabilan.senthilkumarc@gmail.com
+[GitHub](https://github.com/Its-meTechkyKabilan)
